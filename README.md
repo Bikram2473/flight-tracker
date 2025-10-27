@@ -24,4 +24,4 @@ _A sleek real-time **Flight Tracking Web App** built using **React.js (frontend)
   iii) _'cors' and 'node-fetch' for API handling._</br>
 
 ### **_API:_**
-  _AviationStack API - for live flight data_
+  _**AviationStack API** - for live flight data_
