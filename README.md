@@ -80,4 +80,4 @@ _The app comes with a **theme toggle button**, allowing users to switch between 
 ## 📸 Screenshots
 
 **_UI Interface_**</br>
-![**_image_alt_**](https://github.com/Bikram2473/flight-tracker.git)
+![**_image_alt_**](https://github.com/Bikram2473/flight-tracker/blob/main/Flight.png)
