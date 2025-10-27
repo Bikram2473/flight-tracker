@@ -59,9 +59,17 @@ ii) _Setup Backend_
 cd backend
 npm install
 
-# Create.env file inside 'backend/' and add:
+# Create.env file inside "backend/" and add:
 AVIATIONSTACK_API_KEY=your_api_key_here
 
 # Start the backend server:
 node index.js                    # Server will start on "http://localhost:4000"
 ```
+
+iii) _Setup Frontend_
+```bash
+cd frontend
+npm install
+npm run dev                      # Frontend runs at "http://localhost:5173"
+```
+
