@@ -73,3 +73,11 @@ npm install
 npm run dev                      # Frontend runs at "http://localhost:5173"
 ```
 
+## 🌗 Dark / Light Mode
+
+_The app comes with a **theme toggle button**, allowing users to switch between **dark** and **light** mode for better accessibility and visual comfort._
+
+## 📸 Screenshots
+
+**_UI Interface_**</br>
+![**_image_alt_**](https://github.com/Bikram2473/flight-tracker.git)
