@@ -25,3 +25,22 @@ _A sleek real-time **Flight Tracking Web App** built using **React.js (frontend)
 
 ### **_API:_**
   _**AviationStack API** - for live flight data_
+
+## 🧑‍💻 Project Structure
+
+flight-tracker/
+│
+├── backend/
+│   ├── index.js             # Express server setup
+│   ├── .env                 # Contains AviationStack API key
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── App.jsx          # Main React component
+│   │   ├── index.css        # Global styles
+│   │   └── main.jsx
+│   └── package.json
+│
+├── README.md
+└── .gitignore
