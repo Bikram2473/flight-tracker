@@ -45,3 +45,23 @@ flight-tracker/
 ├── README.md
 └── .gitignore
 ```
+
+## ⚙️ Installation & Setup
+
+i) _Clone the Repository_
+```bash
+git clone https://github.com/Bikram2473/flight-tracker.git
+cd flight-tracker
+```
+
+ii) _Setup Backend_
+```bash
+cd backend
+npm install
+
+# **Create.env file inside 'backend/' and add:**
+AVIATIONSTACK_API_KEY=your_api_key_here
+
+# **Start the backend server:**
+node index.js                    # Server will start on _http://localhost:4000_
+```
