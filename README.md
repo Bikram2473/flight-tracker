@@ -27,7 +27,7 @@ _A sleek real-time **Flight Tracking Web App** built using **React.js (frontend)
   _**AviationStack API** - for live flight data_
 
 ## 🧑‍💻 Project Structure
-
+```bash
 flight-tracker/</br>
 │</br>
 ├── backend/</br>
@@ -44,3 +44,4 @@ flight-tracker/</br>
 │</br>
 ├── README.md</br>
 └── .gitignore</br>
+```
