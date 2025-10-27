@@ -13,12 +13,12 @@ _A sleek real-time **Flight Tracking Web App** built using **React.js (frontend)
 
 ## 🧰 Tech Stack
 
-**_Frontend:_**</br>
+### **_Frontend:_**
   i) _React.js (Vite)_</br>
   ii) _CSS3 (for styling)_</br>
   iii) _React Hooks for state management_</br>
 
-**_Backend:_**</br>
+### **_Backend:_**
   i) _Node.js + Express.js_</br>
   ii) _'dotenv' for environment configuration_</br>
   iii) _'cors' and 'node-fetch' for API handling._</br>
